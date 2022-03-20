@@ -5,3 +5,5 @@
 > --
 > Hypothesis:
 > The most polarizing videos get shared the most
+
+> See Jupyter Notebook for whole analysis on data and conclusion
